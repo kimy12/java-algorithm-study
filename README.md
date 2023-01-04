@@ -17,10 +17,10 @@ algorithm-study
   * [암호(replace(), parseInt(String, 2))](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/string01/String0112.java)
   
 * Array(1,2 차원 배열)
-  * [큰 수 출력하기](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/string01/String0201.java)
-  * [보이는 학생](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/string01/String0202.java)
-  * [가위바위보](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/string01/String0203.java)
-  * [피보나치 수열](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/string01/String0204.java)
+  * [큰 수 출력하기](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0201.java)
+  * [보이는 학생](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/String0202.java)
+  * [가위바위보](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/String0203.java)
+  * [피보나치 수열](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/String0204.java)
   * 소수(에라토스테네스 체)
   * 뒤집은 소수
   * 점수계산
