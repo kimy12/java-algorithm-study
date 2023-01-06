@@ -22,7 +22,7 @@ algorithm-study
   * [가위바위보](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0203.java)
   * [피보나치 수열](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0204.java)
   * [소수(에라토스테네스 체)](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0205.java)
-  * 뒤집은 소수
+  * [뒤집은 소수](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0206.java)
   * 점수계산
   * 등수구하기
   * 격차판 최대합
