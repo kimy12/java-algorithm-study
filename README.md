@@ -23,9 +23,9 @@ algorithm-study
   * [피보나치 수열](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0204.java)
   * [소수(에라토스테네스 체)](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0205.java)
   * [뒤집은 소수](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0206.java)
-  * 점수계산
-  * 등수구하기
-  * 격차판 최대합
+  * [점수계산](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0207.java)
+  * [등수구하기](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0208.java)
+  * [격차판 최대합](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0209.java)
   * 봉우리
   * 임시반장정하기
   * 멘토링
