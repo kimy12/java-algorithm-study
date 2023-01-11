@@ -26,6 +26,6 @@ algorithm-study
   * [점수계산](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0207.java)
   * [등수구하기](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0208.java)
   * [격차판 최대합](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0209.java)
-  * [봉우리]((https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0210.java))
+  * [봉우리](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0210.java)
   * 임시반장정하기
   * 멘토링
