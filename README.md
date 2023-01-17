@@ -31,8 +31,8 @@ algorithm-study
   * [멘토링](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/array02/Array0212.java)
   
 * Two pointers, Sliding window
-  * [두 배열 합치기(Two pointers)]()
-  * [공통원소구하기(Two pointers)]()
+  * [두 배열 합치기(Two pointers)](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/twoPointers03/twoPointers0301.java)
+  * [공통원소구하기(Two pointers)](https://github.com/kimy12/java-algorithm-study/blob/master/inflearn/src/algorithm/twoPointers03/twoPointers0302.java)
   * 최대 매출(Sliding window)
   * 연속부분수열
   * 연속된 자연수의 합(Two pointers)
